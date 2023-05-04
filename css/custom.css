@@ -1,0 +1,13 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+.hero{
+	background-color: orange !important;
+}
+#wrapper{
+	background-color: rgb(96, 146, 255) !important;
+}
